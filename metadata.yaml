@@ -1,0 +1,43 @@
+homepage: >-
+  https://github.com/thetradedesk/conversion-events-server-side-for-googletagmanager
+documentation: >-
+  https://github.com/thetradedesk/conversion-events-server-side-for-googletagmanager
+versions:
+  - sha: 0968a0bee8ab8b672b272a73699c446a45e3b540
+    changeNotes: |-
+      # @ttd/conversionEventsServerSideForGoogleTagManager
+
+      ## 1.0.0
+
+      ### Major Changes
+
+      -   f827c31: Initial release
+  - sha: 84c6998716e4c401eca5f884219412e7ed690bca
+    changeNotes: |
+      ## 1.1.0
+
+      ### Minor Changes
+
+      -   c4a5ee4: - Fix race condition, cleanups
+          -   Added custom parameters and Impression ID
+  - sha: 7fe5e9df78bd8590e775dde5e2719acfbde22399
+    changeNotes: |
+      ## 1.0.2
+
+      ### Patch Changes
+
+      -   803d42a: Updates
+  - sha: 17ba493bb6b768f846b0823cbf547619f5fff1b9
+    changeNotes: |
+      ## 1.0.1
+
+      ### Patch Changes
+
+      -   681f74d: Change template name
+  - sha: 0cdf025b1c057c3d6330cd9f2cab2f8b4869373f
+    changeNotes: |-
+      ## 1.0.0
+
+      ### Major Changes
+
+      -   7d1b1d8: Initial release
